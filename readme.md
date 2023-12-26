@@ -8,3 +8,7 @@ This is first in git
 for third commit modefying the file again.
 
 including a html code file-- index.html
+
+
+pushing changes to git
+and reverting back
